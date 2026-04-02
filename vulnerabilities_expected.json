@@ -1,0 +1,9 @@
+{
+  "code-vulns/sql_injection.js": "SQL Injection",
+  "code-vulns/xss.js": "Cross-Site Scripting",
+  "code-vulns/hardcoded_secret.py": "Hardcoded Secret",
+  "iam-vulns/overly_permissive_policy.json": "IAM: Overly Permissive Policy",
+  "iam-vulns/exposed_keys.env": "IAM: Exposed Credentials",
+  "cloud-vulns/insecure_s3.tf": "Cloud: Public S3 Bucket",
+  "cloud-vulns/open_security_group.tf": "Cloud: Open Security Group"
+}
